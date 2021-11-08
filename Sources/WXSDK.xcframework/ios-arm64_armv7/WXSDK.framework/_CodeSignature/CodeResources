@@ -12,6 +12,10 @@
 		<data>
 		5nm1inINg7V624P/P0mtHjt3fTA=
 		</data>
+		<key>Headers/WXSDK.h</key>
+		<data>
+		EqFxu/QtrofL8LiQ+muQR9BvD9k=
+		</data>
 		<key>Headers/WechatAuthSDK.h</key>
 		<data>
 		6beFSxsQAVAU2YA49kPcCypShO0=
@@ -19,6 +23,10 @@
 		<key>Info.plist</key>
 		<data>
 		cVWgJG0oKEERq4hO6RmaI558mEo=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		R0XV3jQ840aWPvOpk7xR3rVNLs4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -45,6 +53,17 @@
 			nHp1MXfpkNUe3AFP7MDjnvVO2xGbu5ZLy4IOh6L/HH4=
 			</data>
 		</dict>
+		<key>Headers/WXSDK.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EqFxu/QtrofL8LiQ+muQR9BvD9k=
+			</data>
+			<key>hash2</key>
+			<data>
+			4xKrQBgE9naWoDXoR7Fzar3+4yJVbbLNirFiCmxFNPE=
+			</data>
+		</dict>
 		<key>Headers/WechatAuthSDK.h</key>
 		<dict>
 			<key>hash</key>
@@ -54,6 +73,17 @@
 			<key>hash2</key>
 			<data>
 			eX6ctZW1kLlhw/hTNNWOJPj0BpgwHGwje4CjdGBKA+c=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R0XV3jQ840aWPvOpk7xR3rVNLs4=
+			</data>
+			<key>hash2</key>
+			<data>
+			vYf7tOCyXk1wNmEv8anSORXkLl/4zY4LYitmYzeXTgo=
 			</data>
 		</dict>
 	</dict>
