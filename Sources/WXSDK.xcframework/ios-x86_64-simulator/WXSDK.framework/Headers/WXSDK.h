@@ -17,5 +17,5 @@ FOUNDATION_EXPORT const unsigned char WXSDKVersionString[];
 
 
 #import <WXSDK/WXApi.h>
-#import <QQSDK/WXApiObject.h>
-#import <QQSDK/WechatAuthSDK.h>
+#import <WXSDK/WXApiObject.h>
+#import <WXSDK/WechatAuthSDK.h>
